@@ -26,6 +26,7 @@ h1 {
 }
 
 .page {
+  padding-top: 120px;
   position: relative;
   min-height: 100vh;
   overflow: hidden;
